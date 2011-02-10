@@ -26,9 +26,9 @@ lash	False
 lift	False
 limit	False
 mill	False
-multiply	False
+multiply	True
 oozebane	False
-outline	True
+outline	False
 outset	False
 preface	False
 raft	False
