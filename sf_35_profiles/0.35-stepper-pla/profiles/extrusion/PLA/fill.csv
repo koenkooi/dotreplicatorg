@@ -24,7 +24,7 @@ Line	False
 Infill Perimeter Overlap (ratio):	0.18
 Infill Solidity (ratio):	0.2
 Infill Width over Thickness (ratio):	2
-Solid Surface Thickness (layers):	3
+Solid Surface Thickness (layers):	4
 Infill > Loops > Perimeter	False
 Infill > Perimeter > Loops	False
 Loops > Infill > Perimeter	False
