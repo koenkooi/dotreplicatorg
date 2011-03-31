@@ -6,5 +6,7 @@ Activate Dimension	False
 Absolute Extrusion Distance	True
 Relative Extrusion Distance	False
 Extruder Retraction Speed (mm/s):	13.3
+Filament Diameter (mm):	2.8
+Filament Packing Density (ratio):	0.85
 Retraction Distance (millimeters):	0.0
 Restart Extra Distance (millimeters):	0.0
