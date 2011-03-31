@@ -1,4 +1,4 @@
-(Cupcake 3.0mm PLA with heated build platform skeinforge profile)
+(Cupcake 3.0mm PLA with heated build platform skeinforge 40 profile)
 (beginning of start.txt)
 M108 R0 (Extruder speed 0 RPM)
 M106 (LEDS on)
