@@ -7,10 +7,10 @@ Bridge Thickness Multiplier (ratio):	1.0
 Extra Decimal Places (float):	3.0
 Import Coarseness (ratio):	1.0
 Infill in Direction of Bridges	True
-Layer Thickness (mm):	0.2875
+Layer Thickness (mm):	0.2
 Layers From (index):	0
 Layers To (index):	912345678
 Correct Mesh	True
 Unproven Mesh	False
-Perimeter Width over Thickness (ratio):	1.40
+Perimeter Width over Thickness (ratio):	1.50
 SVG Viewer:	webbrowser
