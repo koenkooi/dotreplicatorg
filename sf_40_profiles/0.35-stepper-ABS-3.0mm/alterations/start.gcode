@@ -4,7 +4,7 @@ M108 R0 (Extruder speed 0 RPM)
 M106 (LEDS on)
 
 M104 S230 T0 (Extruder Temperature to 230 Celsius)
-M109 S111 T0 (Heated Platform Temperature to 111 Celsius)
+M109 S115 T0 (Heated Platform Temperature to 111 Celsius)
 M6 T0 (Wait for tool to heat up)
 
 G21 (Metric FTW)
