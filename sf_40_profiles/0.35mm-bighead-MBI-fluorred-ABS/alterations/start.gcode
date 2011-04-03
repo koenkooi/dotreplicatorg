@@ -1,4 +1,4 @@
-(Cupcake 3.0mm/0.35mm ABS with heated build platform skeinforge 40 profile)
+(Cupcake 0.35mm bighead MBI Fluorescent red ABS with heated build platform skeinforge 40 profile)
 (beginning of start.txt)
 M108 R0 (Extruder speed 0 RPM)
 M106 (LEDS on)
