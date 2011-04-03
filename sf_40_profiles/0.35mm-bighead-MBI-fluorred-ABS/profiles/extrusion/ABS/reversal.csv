@@ -4,7 +4,7 @@ WindowPosition	700+0
 Open File for Reversal	
 Activate Reversal	True
 Reversal speed (RPM):	22.0
-Reversal time (milliseconds):	70.0
+Reversal time (milliseconds):	65.0
 Push-back time (milliseconds):	65.0
-Reversal threshold (mm):	2.0
+Reversal threshold (mm):	3.0
 Activate early reversal and push-back	True
