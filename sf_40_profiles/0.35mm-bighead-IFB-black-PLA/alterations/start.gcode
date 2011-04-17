@@ -9,7 +9,7 @@ G90 (Absolute Positioning)
 (Drop down next to the lowerleft corner, the ooze will get scraped off by the platform)
 G1 X-52.0 Y-48.0 Z0.0 F3000
 
-M104 S205 T0 (Extruder Temperature to 205 Celsius)
+M104 S190 T0 (Extruder Temperature to Sxxx Celsius)
 M109 S85 T0 (Heated Platform Temperature to 85 Celsius)
 M6 T0 (Wait for tool to heat up)
 
