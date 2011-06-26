@@ -10,7 +10,7 @@ cleave	False
 clip	False
 coil	False
 comb	False
-cool	True
+cool	False
 dimension	False
 drill	False
 export	False
@@ -20,7 +20,7 @@ fillet	False
 flow	False
 home	False
 hop	False
-inset	False
+inset	True
 jitter	False
 lash	False
 lift	False

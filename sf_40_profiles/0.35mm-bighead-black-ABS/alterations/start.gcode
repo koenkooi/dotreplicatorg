@@ -10,7 +10,7 @@ G90 (Absolute Positioning)
 G1 X-52.0 Y-48.0 Z0.0 F3000
 
 M104 S200 T0 (Extruder Temperature to 200 Celsius)
-M109 S115 T0 (Heated Platform Temperature to 111 Celsius)
+M109 S125 T0 (Heated Platform Temperature to 125 Celsius)
 M6 T0 (Wait for tool to heat up)
 
 (You have failed me for the last time, MakerBot)

@@ -56,10 +56,34 @@
     </programmer>
     <firmware
        major="2"
-       minor="4"
-       relpath="firmware/MB-mb24-v2.4.hex"
-       name="v2.4"
-       description="The v2.4 firmware for Generation 4 motherboards."
+       minor="7"
+       relpath="firmware/MB-mb24-v2.7.hex"
+       name="v2.7"
+       description="The v2.7 firmware for Generation 4 motherboards."
+       />
+    <firmware
+       major="2"
+       minor="81"
+       relpath="firmware/MB-mb24-v2.81.hex"
+       name="v2.81"
+       description="The v2.81 firmware for Generation 4 motherboards."
+       />
+  </board>
+
+  <board name="MakerBot Motherboard v2.X (Gen4) with Mega 2560" icon="icon-mb24.png">
+    <version major="2" minor="4"/>
+    <programmer class="replicatorg.uploader.AvrdudeUploader">
+      <protocol>stk500v2</protocol>
+      <speed>115200</speed>
+      <arch>m2560</arch>
+      <manualreset>true</manualreset>
+    </programmer>
+    <firmware
+       major="2"
+       minor="81"
+       relpath="firmware/MB-mb24-2560-v2.81.hex"
+       name="v2.81"
+       description="The v2.81 firmware for Generation 4 motherboards with Mega 2560."
        />
   </board>
 
@@ -85,7 +109,20 @@
        name="v2.6 w/o relays"
        description="This firmware is for those using extruders without relay boards."
        />
-
+    <firmware
+       major="2"
+       minor="6"
+       relpath="firmware/EC-ecv22-v2.6-stepper-relays.hex"
+       name="v2.6 for stepper extruder with relays"
+       description="Koenkooi's custom firmware for stepper extruders with relay boards."
+       />
+    <firmware
+      major="2"
+      minor="6"
+      relpath="firmware/EC-ecv22-v2.6-stepper-no-relays.hex"
+      name="v2.6 for stepper extruder without relays"
+      description="Koenkooi's custom firmware for stepper extruders without relay boards."
+      />
     <firmware
        major="2"
        minor="5"
@@ -170,10 +207,17 @@
     </programmer>
     <firmware
        major="2"
-       minor="6"
-       relpath="firmware/EC-ecv34-v2.6.hex"
-       name="v2.6"
-       description="The v2.6 firmware for Generation 4 extruder controllers using DC gearmotors."
+       minor="7"
+       relpath="firmware/EC-ecv34-v2.7.hex"
+       name="v2.7"
+       description="The v2.7 firmware for Generation 4 extruder controllers."
+       />
+    <firmware
+       major="2"
+       minor="8"
+       relpath="firmware/EC-ecv34-v2.8.hex"
+       name="v2.8"
+       description="The v2.8 firmware for Generation 4 extruder controllers."
        />
   </board>
 </boards>

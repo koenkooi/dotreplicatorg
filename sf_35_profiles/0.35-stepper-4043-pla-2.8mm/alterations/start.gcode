@@ -1,7 +1,7 @@
 (Cupcake PLA with heated build platform skeinforge profile)
 (beginning of start.txt)
 M106 (UV LEDS on)
-M104 S180 T0 (Extruder Temperature to 180 Celsius)
+M104 S200 T0 (Extruder Temperature to 200 Celsius)
 M109 S90 T0 (Heated Platform Temperature to 90 Celsius)
 G21 (Metric FTW)
 G90 (Absolute Positioning)

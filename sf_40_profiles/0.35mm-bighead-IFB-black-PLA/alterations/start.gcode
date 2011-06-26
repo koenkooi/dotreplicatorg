@@ -13,12 +13,15 @@ M104 S200 T0 (Extruder Temperature to Sxxx Celsius)
 M109 S85 T0 (Heated Platform Temperature to 85 Celsius)
 M6 T0 (Wait for tool to heat up)
 
+(wait a short while after heatup)
+G04 P2000 (Wait t/1000 seconds)
+
 (You have failed me for the last time, MakerBot)
 
 (Adjust for oozing during heat up)
-M108 R4 (set extruder speed)
+M108 R1 (set extruder speed)
 M101 (Extruder on)
-G04 P3000 (Wait t/1000 seconds)
+G04 P5000 (Wait t/1000 seconds)
 M103 (Extruder off)
 
 M109 S70 T0 (Heated Platform Temperature to 70 Celsius)
