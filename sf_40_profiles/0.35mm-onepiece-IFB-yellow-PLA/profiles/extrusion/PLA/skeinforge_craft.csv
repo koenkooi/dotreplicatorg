@@ -15,12 +15,12 @@ dimension	False
 drill	False
 export	False
 feed	False
-fill	False
+fill	True
 fillet	False
 flow	False
 home	False
 hop	False
-inset	True
+inset	False
 jitter	False
 lash	False
 lift	False
